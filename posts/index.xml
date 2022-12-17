@@ -9,10 +9,30 @@
     <description>Recent content in Posts on My HUGO page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Dec 2022 16:34:48 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 17 Dec 2022 17:06:39 +0200</lastBuildDate>
     
 	<atom:link href="http://Lefruite1337.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Picture post</title>
+      <link>http://Lefruite1337.github.io/posts/anotherpost/</link>
+      <pubDate>Sat, 17 Dec 2022 17:06:39 +0200</pubDate>
+      
+      <guid>http://Lefruite1337.github.io/posts/anotherpost/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          &#39;![Example image](/duck.png) ![Example image2](/image.jpg) &amp;lt;img src = &amp;quot;/image.jpg&amp;quot;&amp;gt;
+          
+        
+        </description>
+    </item>
     
     <item>
       <title>Test article</title>
